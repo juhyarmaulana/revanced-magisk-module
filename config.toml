@@ -1,5 +1,5 @@
 logging-to-file = true        # enables logging of every patch process to a seperate file
-enable-magisk-update = false   # set this to false if you do not want to receive updates for the module in magisk app
+enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
 
 # add 'enabled = false' for not patching a specific app or remove it from the config
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
@@ -7,14 +7,13 @@ enable-magisk-update = false   # set this to false if you do not want to receive
 # you can use rvmm-config-gen to generate a config
 
 [YouTube]
-build-mode = "apk"
+build-mode = "both"
 excluded-patches = ""
 included-patches = ""
 version = "auto"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Music]
-enabled = false
 build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 arch = "both"
@@ -51,6 +50,7 @@ enabled = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 
 [Reddit]
+enabled = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 
 [Messenger]
