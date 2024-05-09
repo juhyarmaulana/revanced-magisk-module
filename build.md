@@ -1,6 +1,6 @@
-Twitter: 10.37.0-release.0  
-YouTube: 19.11.43  
 TikTok: 32.5.3  
+Twitter: 10.39.0-release.0  
+YouTube: 19.11.43  
 
 Install [GmsCore](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store  
