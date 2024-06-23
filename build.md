@@ -1,6 +1,6 @@
-TikTok: 32.5.3  
-Twitter: 10.43.0-release.0  
+Twitter: 10.46.1-release.0  
 YouTube: 19.16.39  
+TikTok: 32.5.3  
 
 Install [GmsCore](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store  
@@ -9,6 +9,6 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouT
 
 Changelog:  
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
-Integrations: ReVanced/revanced-integrations-1.10.0.apk  
-Patches: ReVanced/revanced-patches-4.9.0.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.9.0)  
+Integrations: ReVanced/revanced-integrations-1.11.0.apk  
+Patches: ReVanced/revanced-patches-4.10.0.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.10.0)  
